@@ -1,5 +1,5 @@
 import pytest
-from .classes import Card
+from ..classes import Card
 
 
 _all_valid_combinations = [
